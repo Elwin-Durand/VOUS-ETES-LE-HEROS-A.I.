@@ -12,4 +12,4 @@ __PALETTE DE COULEURS__ [coolers.co](https://coolors.co/ffffff-d7d0d5-000000-ff0
 
 ##DIAGRAMME
 
-![android](https://assets/img/accueil.jpg)
+![android](https://assets/img/diagramme.jpg)
